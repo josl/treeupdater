@@ -21,7 +21,9 @@
     "json"
   ],
   "dependencies": {
-    "meow": "^3.1.0"
+    "biojs-io-newick": "git+https://github.com/daviddao/biojs-io-newick.git",
+    "meow": "^3.1.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "browserify": "^9.0.3",
